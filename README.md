@@ -34,27 +34,6 @@ with a strong focus on clean UI, usability, and maintainable code.
 - ✨ Passionate about clean code and scalable architecture
 - 📚 Continuously exploring modern frontend technologies
 
----
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap" />
-</p>
-
-### State Management & Data Fetching
-
-<p>
-  <img src="https://skillicons.dev/icons?i=redux,react" />
-</p>
-
-**Tools:** Redux • TanStack Query • React Context API
-
-### Tools & Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
 
 
 # 🎯 What I Do Best
