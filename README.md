@@ -29,21 +29,17 @@ with a strong focus on clean UI, usability, and maintainable code.
 - ⚡ Fun fact: **I enjoy turning complex ideas into clean, user-friendly web experiences and I'm always excited to learn new technologies.**
 ```
 
-- 🚀 Specialized in React.js & Next.js ecosystem
-- 🎯 Strong focus on responsive design and performance
-- ✨ Passionate about clean code and scalable architecture
-- 📚 Continuously exploring modern frontend technologies
-
-
 
 # 🎯 What I Do Best
 
 ```text
-✓ Build responsive, mobile-first web applications
-✓ Implement pixel-perfect UI from Figma designs
-✓ Optimize performance and loading time
-✓ Write clean, maintainable, and scalable code
-✓ Collaborate effectively in agile teams
+✓ Develop scalable React & Next.js applications
+✓ Convert Figma designs into pixel-perfect UIs
+✓ Build responsive and mobile-first interfaces
+✓ Optimize web performance and Core Web Vitals
+✓ Integrate REST APIs and manage application state
+✓ Write clean, reusable, and maintainable code
+✓ Collaborate using Git, GitHub, and Agile workflows
 ```
 
 ---
